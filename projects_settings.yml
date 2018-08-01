@@ -6,8 +6,8 @@ projects:
     documents:
       - foia-regolamento-docs
   -
-    name: Statuto
-    short_name: statuto
-    description: Statuto
+    name: Statuto Città Metropolitana di Napoli
+    short_name: statuto cmna
+    description: "Statuto della Città Metropolitana di Napoli."
     documents:
-      - statuto-docs
+      - statuto-cmna-docs
