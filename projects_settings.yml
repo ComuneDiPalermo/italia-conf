@@ -10,8 +10,7 @@ projects:
       - citizenship
       - amazing project
     documents:
-      - title: Regolamento Foia
-        repository: foia-regolamento-docs
+      - foia-regolamento-docs
 projects:
   - title: Statuto
     short-name: 
@@ -21,8 +20,7 @@ projects:
       - digital
       - amazing project
     documents:
-      - title: statuto
-        repository: statuto-docs
+      - statuto-docs
 projects:
   - title: Codice di Comportamento dei Dipendenti
     short-name: 
