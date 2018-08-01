@@ -1,8 +1,7 @@
-projects:
-  - title: Regolamento Foia
-    short-name: 
-    description: |
-      Regolamento sul diritto di accesso all'informazione e all'accesso ai documenti amministrativi
+  -
+    name: Regolamento Foia
+    short_name: 
+    description: "Regolamento sul diritto di accesso all'informazione e all'accesso ai documenti amministrativi"
     logo : "asset/images/cmna_logo.jpg
     website: http://www.cittametropolitana.na.it/accesso-agli-atti
     tags:
@@ -11,9 +10,10 @@ projects:
       - amazing project
     documents:
       - foia-regolamento-docs
-projects:
-  - title: Statuto
-    short-name: 
+      
+  -
+    name: Statuto
+    short_name: 
     description: Statuto
     website: http://www.cittametropolitana.na.it/-/statuto
     tags:
