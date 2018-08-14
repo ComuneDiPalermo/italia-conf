@@ -18,9 +18,9 @@ projects:
     documents:
       - cod_comportamento_dipendenti-docs
   -
-    name: Manuale Portale Utente e Contratto di Servizio
+    name: Portale utente
     short_name: CRM Portal
-    description: "Manuale d'uso interno del Portale Utente."
+    description: Portale utente 
     documents:
       - portaleutente-manuale-docs
       - contratto-di-servizio-docs
