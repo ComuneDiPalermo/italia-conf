@@ -17,10 +17,3 @@ projects:
     description: "Codice di Comportamento dei Dipendenti della Città Metropolitana di Napoli."
     documents:
       - cod_comportamento_dipendenti-docs
-  -
-    name: Portale utente
-    short_name: CRM Portal
-    description: Portale utente 
-    documents:
-      - portaleutente-manuale-docs
-      - contratto-di-servizio-docs
