@@ -18,14 +18,9 @@ projects:
     documents:
       - cod_comportamento_dipendenti-docs
   -
-    name: Manuale Portale Utente CRM
+    name: Manuale Portale Utente e Contratto di Servizio
     short_name: CRM Portal
     description: "Manuale d'uso interno del Portale Utente."
     documents:
       - portaleutente-manuale-docs
-  -
-    name: Contratto di Servizio - Portale Utente - CRM Vtiger
-    short_name: SLA-Portal
-    description: "Questo repository contiene il contratto di servizio SLA - Service Level Agreement."
-    documents:
       - contratto-di-servizio-docs
