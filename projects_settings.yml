@@ -19,7 +19,7 @@ projects:
       - cod_comportamento_dipendenti-docs
   -
     name: Manuale Portale Utente CRM
-    short_name: CRM-Portal
+    short_name: CRM Portal
     description: "Manuale d'uso interno del Portale Utente."
     documents:
       - portaleutente-manuale-docs
