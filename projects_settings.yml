@@ -17,7 +17,7 @@ projects:
     description: "Codice di Comportamento dei Dipendenti della Città Metropolitana di Napoli."
     documents:
       - cod_comportamento_dipendenti-docs
-   -
+  -
     name: Manuale Portale Utente - CRM
     short_name: CRM-Portal
     description: "Manuale d'uso interno del Portale Utente - CRM vtiger per la gestione delle richieste di pubblicazione su sito istituzionale della Città Metropolitana di Napoli."
