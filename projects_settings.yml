@@ -14,12 +14,12 @@ projects:
     description: "Codice di Comportamento dei Dipendenti della Città Metropolitana di Napoli."
     documents:
       - cod_comportamento_dipendenti-docs
-  - name: Portale Utente - CRM
+  - name: Portale Utente CRM
     short_name: Sla
     description: "Questo repository contiene il contratto di servizio SLA - Service Level Agreement, per i fruitori del servizio Portale Utente, basato su CRM vtiger. Il Portale Utente è un servizio ad uso esclusivo dei redattori interni, per la gestione delle richieste di pubblicazione sul sito istituzionale della Città Metropolitana di Napoli."
     documents:
       - portaleutente-sla-docs
-  - name: Portale Utente - CRM
+  - name: Portale Utente CRM
     short_name: Man CRM
     description: "Manuale d'uso interno del Portale Utente - CRM vtiger per la gestione
     delle richieste di pubblicazione su sito istituzionale della Città Metropolitana di Napoli."
