@@ -8,7 +8,9 @@ projects:
       - cod_comportamento_dipendenti-docs
   - name: Portale Utente CRM
     short_name: Sla
-    description: "Questo progetto contiene la documentazione relativa al Portale Utente CRM, basato su CRM vtiger. Il Portale Utente è un servizio per la gestione delle richieste di pubblicazione sul sito istituzionale della Città Metropolitana di Napoli."
+    description: "Questo progetto contiene la documentazione relativa al Portale Utente CRM, basato su CRM vtiger. 
+    Il Portale Utente è un servizio per la gestione delle richieste di pubblicazione sul sito istituzionale della 
+    Città Metropolitana di Napoli."
     documents:
       - portaleutente-sla-docs
       - portaleutente-manuale-docs
