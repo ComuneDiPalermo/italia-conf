@@ -1,13 +1,13 @@
 projects:
   - name: Documentazione Amministrativa
-    short_name: docamm
+    short_name: foia
     description: "Questo progetto racchiude tutta la documentazione di tipo amministrativo, come regolamenti e statuto"
     documents:
       - foia-regolamento-docs
       - statuto-cmna-docs
       - cod_comportamento_dipendenti-docs
   - name: Portale Utente CRM
-    short_name: CRM
+    short_name: Sla
     description: "Questo progetto contiene la documentazione relativa al Portale Utente CRM, basato su CRM vtiger. Il Portale Utente è un servizio ad uso esclusivo dei redattori interni, per la gestione delle richieste di pubblicazione sul sito istituzionale della Città Metropolitana di Napoli."
     documents:
       - portaleutente-sla-docs
