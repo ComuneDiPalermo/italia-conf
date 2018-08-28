@@ -12,7 +12,3 @@ projects:
     documents:
       - portaleutente-sla-docs
       - portaleutente-manuale-docs
-  - name: Documentazione Tecnica
-    short_name: doctec
-    description: "Questo progetto racchiude tutta la documentazione di tipo tecnico come Linee Guida"
-    documents:
