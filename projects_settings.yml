@@ -1,8 +1,8 @@
 projects:
-  - name: Documentazione Amministrativa
-    short_name: italia-conf
-    description: "Questo progetto consente la pubblicazione di documenti del comune di Palermo in stile docs-italia"
+  - name: Linee guida open data del Comune di Palermo
+    short_name: opendata-guidelines
+    description: "Questo documento regolamenta l'attività sulla pubblicazione degli open data nel comune di Palermo"
     documents:
-      - docs-italia
-      - comune di Palermo
+      - linee-guida-open-data-comune-palermo
+      
 
