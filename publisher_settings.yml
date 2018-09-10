@@ -1,11 +1,11 @@
 publisher:
-  name: "Città Metropolitana di Napoli"
-  short-name: "CMNA"
+  name: "Comune di Palermo"
+  short-name: "Comune di Palermo"
   description: "Ente di governo metropolitano"
-  website: http://www.cittametropolitana.na.it
-  github_organization_url: github.com/cittametropolitananapoli
+  website: http://www.comune.palermo.it
+  github_organization_url: github.com/ComuneDiPalermo
   tags:
     - documents
     - public
     - amazing publisher
-  logo: assets/images/logo_cmna.png
+  logo: assets/images/logo_comunepalermo.png
