@@ -1,6 +1,6 @@
 projects:
   - name: Linee guida open data del Comune di Palermo
-    short_name: opendata-guidelines
+    short_name: lineeguida-opendata
     description: "Questo documento regolamenta l'attività sulla pubblicazione degli open data nel comune di Palermo"
     documents:
       - linee-guida-open-data-comune-palermo
